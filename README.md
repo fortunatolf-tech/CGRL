@@ -1,4 +1,4 @@
-# :shipit::computer:CGRL - CURSO DE GERÊNCIA DE REDE LOCAL
+# :shipit:CGRL - CURSO DE GERÊNCIA DE REDE LOCAL:computer:
 
 Data: 19/08/2019
 
