@@ -18,3 +18,6 @@ MAN- metropolitam area network -
 
 WAM- wide area network -  
 
+Multi Protocol Label Switching MPLS
+
+O Multiprotocol Label Switching é um mecanismo em redes de telecomunicações de alto desempenho que direciona dados de um nó da rede para o próximo nó baseado em rótulos de menor caminho em vez de endereços de rede longos, evitando consultas complexas em uma tabela de roteamento.
