@@ -4,5 +4,5 @@ Data: 19/08/2019
 
 Disciplinas:
 
-Legislação e Conceitos Básicos
+* Legislação e Conceitos Básicos
 
