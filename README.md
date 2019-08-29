@@ -6,4 +6,4 @@ Disciplinas:
 
 * Legislação e Conceitos Básicos
 
-* SILOMS
+* 
